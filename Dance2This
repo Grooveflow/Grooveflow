@@ -19,7 +19,6 @@
 │   ├── main.tsx
 │   ├── firebase.ts
 │   └── supabaseClient.ts
-├── .env
 ├── index.html
 ├── package.json
 ├── vite.config.ts
